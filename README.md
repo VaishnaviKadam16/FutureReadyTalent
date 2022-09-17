@@ -10,4 +10,5 @@ Static Web Apps, Web Apps
 ## Snapshot of Website 
 Home Page
 
-![image](https://user-images.githubusercontent.com/85859587/181774194-008c83e8-7143-4f45-8f3e-657917946dd4.png)
+https://user-images.githubusercontent.com/85859587/190857588-365b08f6-0b3d-4216-a184-0b6031399a0c.mp4
+
